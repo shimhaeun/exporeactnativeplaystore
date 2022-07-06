@@ -23,11 +23,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF",
-        "permissions": [  ]
-        // /*권한 없애기 geo location*/
+        "backgroundColor": "#FFFFFF"
       },
-      "package": "com.haeunshimexpoprj.expohaeunhello"
+      "package": "com.haeunshimexpoprj.expohaeunhello",
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
